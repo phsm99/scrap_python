@@ -5,3 +5,4 @@ O script lê as notas por semestre, imprime a nota por matéria e calcula a méd
 O script também salva em um arquivo externo o resultado do scrap
 
 O script utiliza apenas o Selenium.
+Para o script funcionar é necessário um webdriver, particularmente eu utilizo o chromedriver.
